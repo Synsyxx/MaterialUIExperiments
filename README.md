@@ -17,6 +17,6 @@ You will also see any lint errors in the console.
 
 Below are images of the project in its current state. These will be removed soon in favor of a live demo.
 
-![MaterialUI Portfolio Large](/projectimages/MaterialUI_Portfolio.png)
-![MaterialUI Portfolio Medium](/projectimages/MaterialUI_Portfolio2.png)
-![MaterialUI Portfolio Small](/projectimages/MaterialUI_Portfolio1.png)
+![MaterialUI Portfolio Large](https://i.imgur.com/R9O8UmH.png)
+![MaterialUI Portfolio Medium](https://i.imgur.com/zVaUNeg.png)
+![MaterialUI Portfolio Small](https://i.imgur.com/NisryuB.png)
